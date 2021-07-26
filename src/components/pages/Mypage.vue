@@ -1,8 +1,7 @@
 <template>
   <div>
     <header-2 />
-    <h3>@guest3</h3>
-    <div></div>
+    <div class="main"><h3>@guest3</h3></div>
     <Footer />
   </div>
 </template>

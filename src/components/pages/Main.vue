@@ -8,7 +8,6 @@
       <div class="content"><discription /></div>
       <div class="content"><usage /></div>
     </div>
-    <div></div>
     <Footer />
   </div>
 </template>
